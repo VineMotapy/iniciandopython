@@ -1,5 +1,5 @@
-#  # Inicio de estudo com Python envio de emails. 
-
+# Inicio de estudo com Python envio de emails. 
+# Parte 1
 # - remetente: a conta de e-mail que vai enviar a mensagem
 # - senha_app: senha gerada no Gmail (senha de app), usada para autenticar no servidor
 # - destinatario: para quem o e-mail será enviado
